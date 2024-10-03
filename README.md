@@ -4,7 +4,7 @@
 
 
 ## Objective
-The project involved setting up an Active Directory environment, integrating it with Splunk for SIEM capabilities, and detecting brute force attacks using various hacking tools. The goal was to simulate real-world cybersecurity scenarios and monitor suspicious activities within the network.
+The project involved setting up an Active Directory environment, integrating it with Splunk for SIEM capabilities, and detecting brute force attacks using various hacking tools. The goal was to simulate real-world cybersecurity scenarios and monitor suspicious activities within the network. This project also connected directly to the **MITRE ATT&CK** framework, aligning attack techniques observed in Splunk with the framework’s categorization, allowing for a better understanding of adversary tactics and techniques.
 
 ### Skills Learned
 - Active Directory configuration and management.
