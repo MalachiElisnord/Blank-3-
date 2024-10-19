@@ -11,7 +11,7 @@ The project involved setting up an Active Directory environment, integrating it 
 - SIEM integration and analysis with Splunk.
 - Attack detection and investigation.
 - Log analysis and event monitoring.
-- Cyber threat hunting using the MITRE ATT&CK framework.
+- Cyber threat hunting using the **MITRE ATT&CK** framework.
 
 ### Tools Used
 - **Windows Server 2022**: Domain controller and Active Directory management.
